@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_language">
+    <sys_cs_topic_language action="INSERT_OR_UPDATE">
+        <cs_topic_id display_value="Update NeedIt Records">fa20f91997f53110269e7e121153afd1</cs_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[]</nlu_entities>
+        <nlu_intent>Affirmative</nlu_intent>
+        <nlu_intent_label>Affirmative</nlu_intent_label>
+        <nlu_model>Setup_Topics_Model</nlu_model>
+        <nlu_model_label>Setup Topics Model</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cs_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 07:40:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8d93f2b597b17110269e7e121153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_964979_needit_vi">7fe521d997b53110269e7e121153afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">7fe521d997b53110269e7e121153afbc</sys_scope>
+        <sys_update_name>sys_cs_topic_language_8d93f2b597b17110269e7e121153af01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 07:40:22</sys_updated_on>
+    </sys_cs_topic_language>
+</record_update>
